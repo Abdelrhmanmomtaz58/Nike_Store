@@ -13,7 +13,7 @@
         android:layout_marginStart="16dp"
         android:layout_marginTop="16dp"
         android:fontFamily="@font/segoebold"
-        android:text="Welcome to\nNike Store"
+        android:text="@string/welcome_to_nnike_store"
         android:textColor="#55709E"
         android:textSize="30sp"
         app:layout_constraintStart_toStartOf="parent"
