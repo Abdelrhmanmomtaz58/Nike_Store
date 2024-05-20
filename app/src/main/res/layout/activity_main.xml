@@ -45,7 +45,7 @@
         android:layout_marginStart="16dp"
         android:layout_marginTop="16dp"
         android:fontFamily="@font/segoeregular"
-        android:text="New Release"
+        android:text="@string/new_release"
         android:textColor="#999999"
         android:textSize="16sp"
         app:layout_constraintStart_toStartOf="parent"
